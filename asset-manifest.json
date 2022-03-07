@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CollegeBusTracking/static/css/main.6c07e4e9.css",
+    "main.js": "/CollegeBusTracking/static/js/main.151a256a.js",
+    "static/js/787.bea0d90a.chunk.js": "/CollegeBusTracking/static/js/787.bea0d90a.chunk.js",
+    "static/media/logo.png": "/CollegeBusTracking/static/media/logo.b92c7dc412cf514d49f4.png",
+    "static/media/logo2.png": "/CollegeBusTracking/static/media/logo2.c7204af8e960dcb252ed.png",
+    "index.html": "/CollegeBusTracking/index.html",
+    "main.6c07e4e9.css.map": "/CollegeBusTracking/static/css/main.6c07e4e9.css.map",
+    "main.151a256a.js.map": "/CollegeBusTracking/static/js/main.151a256a.js.map",
+    "787.bea0d90a.chunk.js.map": "/CollegeBusTracking/static/js/787.bea0d90a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c07e4e9.css",
+    "static/js/main.151a256a.js"
+  ]
+}
